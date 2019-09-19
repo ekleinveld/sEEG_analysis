@@ -4,6 +4,8 @@
 % author: D van Blooijs
 % date: May 2019
 
+% TEST
+
 addpath('Desktop/git_rep/sEEG_analysis')
 addpath('Desktop/git_rep/fieldtrip/')
 ft_defaults
